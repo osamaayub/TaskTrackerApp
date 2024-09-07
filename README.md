@@ -41,12 +41,12 @@ To set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/syedabubakarali70/task-tracker-app.git
+   https://www.osamaayub/TaskTrackerApp.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd task-tracker-app
+   cd TaskTrackerApp
    ```
 
 3. Install dependencies:
