@@ -29,7 +29,7 @@ The **Task Tracker App** is a simple task management tool built with **ReactJS**
 ## Technologies Used
 
 - **ReactJS:** For building the user interface.
-- **Tailwind/shadcnui:** For styling the app.
+- **Tailwind CSS:** For styling the app.
 - **Git:** For version control and managing project updates.
 - **GitHub:** To host the project's code and collaborate with others.
 
