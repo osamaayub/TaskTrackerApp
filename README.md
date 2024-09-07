@@ -3,7 +3,9 @@ The Task Tracker App is a simple task management tool built with ReactJS. The go
 
 <hr>
 Features<br>
-<h2>Add Tasks<h2><br>
-<h2>View Tasks</h2><br>
-<h2>Delete Tasks</h2></br>
+<ul>
+  <li>Add Tasks</li><br>
+   <li>View  Tasks</li><br>
+   <li>Delete Tasks</li><br>
+</ul>
 <hr>
