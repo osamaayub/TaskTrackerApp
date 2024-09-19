@@ -27,7 +27,7 @@ const TaskInput = ({ addTask }) => {
         ref={inputRef}
         value={InputValue}
         onChange={(e) => { setInputValue(e.target.value) }}
-        className="outline-none  bg-purple-600 rounded-md p-1 text-white"
+        className="outline-none focus:bg-gray-500  bg-purple-600 rounded-md p-1 text-white"
       />
       <button
         className="bg-blue-500 text-white cursor-pointer w-26 px-2 py-1 rounded-lg"
